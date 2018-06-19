@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PlayerDamageMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Strawberry
+    m_Weight: 1
+  - m_Path: StrawberryRig
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Elbow.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Elbow.L/Elbow.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Elbow.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Elbow.R/Elbow.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/FootIK.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/FootIK.L/FootIK.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/FootIK.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/FootIK.R/FootIK.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.L/Axe.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.L/Gat.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.L/HandIK.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.L/musket.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.R/Axe.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.R/Gat.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.R/HandIK.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.R/musket.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/HandIK.R/RocketLauncher
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/EyeController
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/EyeController/EyeController_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/HatBone
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/HatBone/ArmyHat
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/HatBone/Beanie
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/HatBone/HatBone_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/HatBone/VikingHelmet
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/MouthController
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/MouthController/MouthController_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/OutlawMask
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/SquashAndStretch
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Head/SquashAndStretch/SquashAndStretch_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.L/UpperArm.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.L/UpperArm.L/LowerArm.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Thumb.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Thumb.L/Thumb.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.R/UpperArm.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.R/UpperArm.R/LowerArm.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Thumb.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Thumb.R/Thumb.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.L/LowerLeg.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.L/LowerLeg.L/Foot.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.R/LowerLeg.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.R/LowerLeg.R/Foot.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Hips/Spine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R/Toes.R_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Knee.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Knee.L/Knee.L_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Knee.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/Root/Knee.R/Knee.R_end
+    m_Weight: 0

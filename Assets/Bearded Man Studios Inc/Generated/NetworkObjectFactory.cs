@@ -35,6 +35,10 @@ namespace BeardedManStudios.Forge.Networking.Generated
 						availableCallback = true;
 						obj = new ExampleProximityPlayerNetworkObject(networker, id, frame);
 						break;
+					case GameControllerNetworkObject.IDENTITY:
+						availableCallback = true;
+						obj = new GameControllerNetworkObject(networker, id, frame);
+						break;
 					case MovableObjectNetworkObject.IDENTITY:
 						availableCallback = true;
 						obj = new MovableObjectNetworkObject(networker, id, frame);
@@ -46,6 +50,14 @@ namespace BeardedManStudios.Forge.Networking.Generated
 					case NetworkManagerNetworkObject.IDENTITY:
 						availableCallback = true;
 						obj = new NetworkManagerNetworkObject(networker, id, frame);
+						break;
+					case PlayerControllerNetworkObject.IDENTITY:
+						availableCallback = true;
+						obj = new PlayerControllerNetworkObject(networker, id, frame);
+						break;
+					case ScoreSystemNetworkObject.IDENTITY:
+						availableCallback = true;
+						obj = new ScoreSystemNetworkObject(networker, id, frame);
 						break;
 					case TestNetworkObject.IDENTITY:
 						availableCallback = true;

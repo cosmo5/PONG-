@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: StrawberringtonDamageMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: StrawberryRig
+    m_Weight: 1
+  - m_Path: StrawberryRig/World
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Shoulder.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Shoulder.L/UpperArm.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Shoulder.L/UpperArm.L/LowerArm.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Shoulder.L/UpperArm.L/LowerArm.L/LowerArm.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/UpperLeg.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/UpperLeg.L/LowerLeg.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/UpperLeg.L/LowerLeg.L/LowerLeg.L_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Mouth.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Mouth.L/Mouth.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/SquashAndStretch
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/SquashAndStretch/SquashAndStretch_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HatBone
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HatBone/Hair
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HatBone/HatBone_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Middle_01.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Middle_01.L/Middle_02.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Middle_01.L/Middle_02.L/Middle_03.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Middle_01.L/Middle_02.L/Middle_03.L/Middle_03.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Thumb_01.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Thumb_01.L/Thumb_02.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Thumb_01.L/Thumb_02.L/Thumb_03.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Thumb_01.L/Thumb_02.L/Thumb_03.L/Thumb_03.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Index_01.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Index_01.L/Index_02.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Index_01.L/Index_02.L/Index_03.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Index_01.L/Index_02.L/Index_03.L/Index_03.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Pinky_01.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Pinky_01.L/Pinky_02.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Pinky_01.L/Pinky_02.L/Pinky_03.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/Hand.L/Pinky_01.L/Pinky_02.L/Pinky_03.L/Pinky_03.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/WeaponParent.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/WeaponParent.L/WeaponPivotOffset.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.L/WeaponParent.L/WeaponPivotOffset.L/WeaponPivotOffset.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Middle_01.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Middle_01.R/Middle_02.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Middle_01.R/Middle_02.R/Middle_03.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Middle_01.R/Middle_02.R/Middle_03.R/Middle_03.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Thumb_01.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Thumb_01.R/Thumb_02.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Thumb_01.R/Thumb_02.R/Thumb_03.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Thumb_01.R/Thumb_02.R/Thumb_03.R/Thumb_03.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Index_01.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Index_01.R/Index_02.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Index_01.R/Index_02.R/Index_03.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Index_01.R/Index_02.R/Index_03.R/Index_03.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Pinky_01.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Pinky_01.R/Pinky_02.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Pinky_01.R/Pinky_02.R/Pinky_03.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/Hand.R/Pinky_01.R/Pinky_02.R/Pinky_03.R/Pinky_03.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/WeaponParent.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/WeaponParent.R/WeaponPivotOffset.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/HandIK.R/WeaponParent.R/WeaponPivotOffset.R/WeaponPivotOffset.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw.002
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw.002/Jaw.002_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Jaw.001
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Jaw.001/Jaw.001_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Tongue_01
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Tongue_01/Tongue_02
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Tongue_01/Tongue_02/Tongue_03
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Tongue_01/Tongue_02/Tongue_03/Tongue_04
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Tongue_01/Tongue_02/Tongue_03/Tongue_04/Tongue_05
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Tongue_01/Tongue_02/Tongue_03/Tongue_04/Tongue_05/Tongue_06
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Tongue_01/Tongue_02/Tongue_03/Tongue_04/Tongue_05/Tongue_06/Tongue_06_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Tongue_06.001
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Jaw/Tongue_06.001/Tongue_06.001_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Mouth.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Head/Mouth.R/Mouth.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Shoulder.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Shoulder.R/UpperArm.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Shoulder.R/UpperArm.R/LowerArm.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/Shoulder.R/UpperArm.R/LowerArm.R/LowerArm.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/UpperLeg.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/UpperLeg.R/LowerLeg.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Hips/Spine/UpperLeg.R/LowerLeg.R/LowerLeg.R_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Elbow.L
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Elbow.L/Elbow.L_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Elbow.R
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/Elbow.R/Elbow.R_end
+    m_Weight: 1
+  - m_Path: StrawberryRig/World/Local/Pivot/FootIK.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/FootIK.L/Foot.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/FootIK.L/Foot.L/Toes.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/FootIK.L/Foot.L/Toes.L/Toes.L_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/FootIK.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/FootIK.R/Foot.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/FootIK.R/Foot.R/Toes.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/FootIK.R/Foot.R/Toes.R/Toes.R_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Knee.L
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Knee.L/Knee.L_end
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Knee.R
+    m_Weight: 0
+  - m_Path: StrawberryRig/World/Local/Pivot/Knee.R/Knee.R_end
+    m_Weight: 0
+  - m_Path: Eyes
+    m_Weight: 1
+  - m_Path: Strawberrington
+    m_Weight: 1

@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Wall
+  - Paddle
+  - ScoreWall
   layers:
   - Default
   - TransparentFX

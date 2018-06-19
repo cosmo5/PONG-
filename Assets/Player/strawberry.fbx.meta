@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: 9fa5128f83c238c45a42b2cde386ad90
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: arm_01_L
+    100002: arm_01_R
+    100004: arm_02_L
+    100006: arm_02_R
+    100008: Armature
+    100010: body
+    100012: finger_01_L
+    100014: finger_01_R
+    100016: finger_02_L
+    100018: finger_02_R
+    100020: hand_L
+    100022: hand_R
+    100024: handIK_L
+    100026: handIK_R
+    100028: hat
+    100030: root
+    100032: //RootNode
+    100034: strawberry
+    100036: thumb_01_L
+    100038: thumb_01_R
+    100040: thumb_02_L
+    100042: thumb_02_R
+    400000: arm_01_L
+    400002: arm_01_R
+    400004: arm_02_L
+    400006: arm_02_R
+    400008: Armature
+    400010: body
+    400012: finger_01_L
+    400014: finger_01_R
+    400016: finger_02_L
+    400018: finger_02_R
+    400020: hand_L
+    400022: hand_R
+    400024: handIK_L
+    400026: handIK_R
+    400028: hat
+    400030: root
+    400032: //RootNode
+    400034: strawberry
+    400036: thumb_01_L
+    400038: thumb_01_R
+    400040: thumb_02_L
+    400042: thumb_02_R
+    4300000: strawberry
+    7400000: Default Take
+    7400002: bunnyThrow
+    7400004: death
+    7400006: detonate
+    7400008: fus_ro_dah
+    7400010: gatAttack
+    7400012: idle
+    7400014: move
+    7400016: musketParade
+    9500000: //RootNode
+    13700000: strawberry
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/body
+        weight: 1
+      - path: Armature/root/body/arm_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L/finger_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R/finger_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: Armature/root/body/handIK_L
+        weight: 1
+      - path: Armature/root/body/handIK_R
+        weight: 1
+      - path: Armature/root/body/hat
+        weight: 1
+      - path: strawberry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: bunnyThrow
+      takeName: bunnyThrow
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/body
+        weight: 1
+      - path: Armature/root/body/arm_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L/finger_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R/finger_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: Armature/root/body/handIK_L
+        weight: 1
+      - path: Armature/root/body/handIK_R
+        weight: 1
+      - path: Armature/root/body/hat
+        weight: 1
+      - path: strawberry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: death
+      firstFrame: -1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/body
+        weight: 1
+      - path: Armature/root/body/arm_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L/finger_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R/finger_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: Armature/root/body/handIK_L
+        weight: 1
+      - path: Armature/root/body/handIK_R
+        weight: 1
+      - path: Armature/root/body/hat
+        weight: 1
+      - path: strawberry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: detonate
+      takeName: detonate
+      firstFrame: -1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/body
+        weight: 1
+      - path: Armature/root/body/arm_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L/finger_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R/finger_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: Armature/root/body/handIK_L
+        weight: 1
+      - path: Armature/root/body/handIK_R
+        weight: 1
+      - path: Armature/root/body/hat
+        weight: 1
+      - path: strawberry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: fus_ro_dah
+      takeName: fus_ro_dah
+      firstFrame: -1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/body
+        weight: 1
+      - path: Armature/root/body/arm_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L/finger_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R/finger_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: Armature/root/body/handIK_L
+        weight: 1
+      - path: Armature/root/body/handIK_R
+        weight: 1
+      - path: Armature/root/body/hat
+        weight: 1
+      - path: strawberry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gatAttack
+      takeName: gatAttack
+      firstFrame: -1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/body
+        weight: 1
+      - path: Armature/root/body/arm_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L/finger_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R/finger_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: Armature/root/body/handIK_L
+        weight: 1
+      - path: Armature/root/body/handIK_R
+        weight: 1
+      - path: Armature/root/body/hat
+        weight: 1
+      - path: strawberry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: -1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/body
+        weight: 1
+      - path: Armature/root/body/arm_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L/finger_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R/finger_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: Armature/root/body/handIK_L
+        weight: 1
+      - path: Armature/root/body/handIK_R
+        weight: 1
+      - path: Armature/root/body/hat
+        weight: 1
+      - path: strawberry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: move
+      takeName: move
+      firstFrame: -1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/body
+        weight: 1
+      - path: Armature/root/body/arm_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L/finger_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R/finger_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: Armature/root/body/handIK_L
+        weight: 1
+      - path: Armature/root/body/handIK_R
+        weight: 1
+      - path: Armature/root/body/hat
+        weight: 1
+      - path: strawberry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: musketParade
+      takeName: musketParade
+      firstFrame: -1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/body
+        weight: 1
+      - path: Armature/root/body/arm_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/finger_01_L/finger_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L
+        weight: 1
+      - path: Armature/root/body/arm_01_L/arm_02_L/hand_L/thumb_01_L/thumb_02_L
+        weight: 1
+      - path: Armature/root/body/arm_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/finger_01_R/finger_02_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R
+        weight: 1
+      - path: Armature/root/body/arm_01_R/arm_02_R/hand_R/thumb_01_R/thumb_02_R
+        weight: 1
+      - path: Armature/root/body/handIK_L
+        weight: 1
+      - path: Armature/root/body/handIK_R
+        weight: 1
+      - path: Armature/root/body/hat
+        weight: 1
+      - path: strawberry
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
